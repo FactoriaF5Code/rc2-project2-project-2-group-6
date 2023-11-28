@@ -1,2 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/WuEFtB3c)
 # Rural Camp 2
 
+Bienvenidos al Café del Mundo Inmersivo donde al entrar, si te atreves a ello, vivirás una experiencia única. ¿En qué consiste dicha experiencia? Todos los productos de nuestra carta están conectados con un mundo de fantasía. Esto quiere decir que si al pedirte un Caramel Macciato quizá acabes en el mundo de Los Vengadores luchando a contrarreloj para salvar al mundo; y si te pides un pastel de queso podrías acabar con Alicia en el país de las maravillas jugando con el sombrerero loco. ¡Una gran experiencia que nunca olvidarás!
