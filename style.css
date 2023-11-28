@@ -1,7 +1,17 @@
-p {
-    color:black;
-    background-color:blueviolet;
-    text-align: center;
-    font-size: 100px;
-    font-family:fantasy;
-}
+.contenedor {
+    position: relative;
+  }
+
+  .elemento1 {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    z-index: 2;
+  }
+
+  .elemento2 {
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    z-index: 1;
+  }
