@@ -9,11 +9,11 @@ img {
 
 a {
     position: absolute;
-    top: 75%;
+    top: 90%;
     left: 50%;
     transform: translate(-50%, 0%);
     text-decoration: none;
-    color: black;
-    background-color: grey;
+    color: white;
+    background-color: blue;
     border: 1px black solid;
 }
